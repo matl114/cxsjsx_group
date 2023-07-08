@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>SoundEffect/putBox.mp3</file>
+        <file>BackGround/START.png</file>
+        <file>SoundEffect/divideBox.mp3</file>
+        <file>BackGround/GameOver.png</file>
+        <file>SoundEffect/over.mp3</file>
+    </qresource>
+</RCC>
